@@ -10,3 +10,17 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 1. Run `ng add @angular/material`
 2. Run `npm install`
+
+### Task: Add a material dashboard (using schematic)
+
+1. run `ng generate @angular/material:material-dashboard --name my-dash`
+2. ERROR: `Schematic "@angular/material-dashboard" not found in collection...`
+3. Ref: <https://stackoverflow.com/questions/51335789/schematic-materialdashboard-not-found-in-collection-angular-material>
+
+```html
+materialShell => material-shell
+materialDashboard => material-dashboard
+materialNav => material-nav
+materialTable => material-table
+```
+
