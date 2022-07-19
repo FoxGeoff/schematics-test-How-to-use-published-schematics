@@ -27,3 +27,9 @@ materialTable => material-table
 ### Task: Display the dash component
 
 Use #1: Compose multiple components together in the required configuration and work correctly
+
+### Task: Add a material table (using schematic)
+
+1. run `ng generate @angular/material:material-table --name my-table`
+
+Use #2: Scafold out a complex component and wire up supporting code
