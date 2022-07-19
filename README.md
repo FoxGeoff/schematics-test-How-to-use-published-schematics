@@ -24,3 +24,6 @@ materialNav => material-nav
 materialTable => material-table
 ```
 
+### Task: Display the dash component
+
+Use #1: Compose multiple components together in the required configuration and work correctly
